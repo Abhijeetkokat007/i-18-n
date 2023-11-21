@@ -1,0 +1,20 @@
+{
+    "en":{
+        "welcomeMessage": "Welcome !",
+        "normalMessage" : "We  hope you enjoy lear",
+        "greetingMessage" : "",
+        "userStartMessage" : "<studentCount> student"
+    },
+    "mr":{
+        "welcomeMessage": "स्वागत आहे !",
+        "normalMessage" : "",
+        "greetingMessage" : "",
+        "userStartMessage" : "<studentCount> विद्यार्थी"
+    },
+    "hi":{
+        "welcomeMessage": "स्वागत है !",
+        "normalMessage" : "",
+        "greetingMessage" : "",
+        "userStartMessage" : "<studentCount> छात्र"
+    }
+}
