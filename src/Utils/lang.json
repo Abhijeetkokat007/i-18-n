@@ -1,20 +1,35 @@
 {
     "en":{
         "welcomeMessage": "Welcome !",
-        "normalMessage" : "We  hope you enjoy lear",
-        "greetingMessage" : "",
+        "normalMessage" : "How to set up Internationalization in React from start to finish .",
+        "greetingMessage" : "What is Internationalization?",
+        "ans-1" : "“Internationalization is the design and development of a product, application or document content that enables easy localization for target audiences that vary in culture, region, or language.”",
+        "question-2" : "What is an example of i18n? ",
+        "ans-2" : "Examples include date and time formats, local calendars, number formats, and numeral systems, sorting and presentation of lists, handling of personal names and forms of address, etc.",
+        "question-3" : "Can I use React for multi page website? ",
+        "ans-3" : "React is such a powerful tool and the react-router-dom extension unlocks even more potential for creating efficient multipage websites with it.",
         "userStartMessage" : "<studentCount> student"
     },
     "mr":{
         "welcomeMessage": "स्वागत आहे !",
-        "normalMessage" : "",
-        "greetingMessage" : "",
+        "normalMessage" : "सुरुवातीपासून शेवटपर्यंत प्रतिक्रियामध्ये आंतरराष्ट्रीयीकरण कसे सेट करावे .",
+        "greetingMessage" : "आंतरराष्ट्रीयीकरण म्हणजे काय?",
+        "ans-1" : "आंतरराष्ट्रीयकरण हे उत्पादन, अनुप्रयोग किंवा दस्तऐवज सामग्रीचे डिझाइन आणि विकास आहे जे संस्कृती, प्रदेश किंवा भाषेमध्ये भिन्न असलेल्या लक्ष्यित प्रेक्षकांसाठी सोपे स्थानिकीकरण सक्षम करते.",
+        "question-2" : "i18n चे उदाहरण काय आहे? ",
+        "ans-2" : "उदाहरणांमध्ये तारीख आणि वेळेचे स्वरूप, स्थानिक कॅलेंडर, क्रमांकाचे स्वरूप आणि अंक प्रणाली, याद्यांचे वर्गीकरण आणि सादरीकरण, वैयक्तिक नावे आणि पत्त्याचे स्वरूप इत्यादींचा समावेश आहे.",
+        "question-3" : "मी एकाधिक पृष्ठ वेबसाइटसाठी प्रतिक्रिया वापरू शकतो? ",
+        "ans-3" : "रिअॅक्ट  हे एक शक्तिशाली साधन आहे आणि रिअॅक्ट-राउटर-डोम विस्तार त्याच्यासह कार्यक्षम मल्टीपेज वेबसाइट तयार करण्याची आणखी क्षमता अनलॉक करतो.",
         "userStartMessage" : "<studentCount> विद्यार्थी"
     },
     "hi":{
         "welcomeMessage": "स्वागत है !",
-        "normalMessage" : "",
-        "greetingMessage" : "",
+        "normalMessage" : "रिएक्ट में प्रारंभ से अंत तक अंतर्राष्ट्रीयकरण कैसे स्थापित करें .",
+        "greetingMessage" : "अंतर्राष्ट्रीयकरण क्या है?",
+        "ans-1" : "अंतर्राष्ट्रीयकरण एक उत्पाद, एप्लिकेशन या दस्तावेज़ सामग्री का डिज़ाइन और विकास है जो संस्कृति, क्षेत्र या भाषा में भिन्न लक्षित दर्शकों के लिए आसान स्थानीयकरण को सक्षम बनाता है।",
+        "question-2" : "i18n का उदाहरण क्या है? ",
+        "ans-2" : "उदाहरणों में दिनांक और समय प्रारूप, स्थानीय कैलेंडर, संख्या प्रारूप और अंक प्रणाली, सूचियों की छंटाई और प्रस्तुति, व्यक्तिगत नामों और पते के रूपों को संभालना आदि शामिल हैं।",
+        "question-3" : "क्या मैं मल्टी पेज वेबसाइट के लिए रिएक्ट का उपयोग कर सकता हूँ?",
+        "ans-3" : "रिएक्ट एक ऐसा शक्तिशाली उपकरण है और रिएक्ट-राउटर-डोम एक्सटेंशन इसके साथ कुशल मल्टीपेज वेबसाइट बनाने की और भी अधिक संभावनाओं को अनलॉक करता है।",
         "userStartMessage" : "<studentCount> छात्र"
     }
 }

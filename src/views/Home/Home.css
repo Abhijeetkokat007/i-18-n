@@ -1,0 +1,44 @@
+.nav-container{
+    background-color: brown;
+    padding: 20px;
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+.hed-1{
+    /* color: brown; */
+}
+.queation-1{
+    /* color: rgb(3, 163, 3); */
+    color: brown;
+  }
+  .ans-1{
+    margin-left: 20px;
+    color: rgb(86, 84, 84);
+    margin-top: 0px;
+  }
+  .i18n-container{
+    width: 50%;
+    padding: 30px;
+    display: block;
+    margin: 30px auto;
+    box-shadow: 0 2px 20px 0  rgb(103, 103, 103);
+  }
+  .drop-lan{
+    text-align: center;
+    margin-right: 20px;
+  
+  }
+  .text-center{
+    text-align: end;
+  }
+
+  @media screen and (max-width: 768px) {
+    .i18n-container{
+        width: 80%;
+        padding: 30px;
+        display: block;
+        margin: 30px auto;
+        box-shadow: 0 2px 20px 0  rgb(103, 103, 103);
+      }
+  }
